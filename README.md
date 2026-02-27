@@ -2,7 +2,7 @@
 
 ## Student Details
 Name: keith kipkemboi
-Registration Number: __________________________  
+Registration Number: EB3/66231/23 
 Unit: cosc 333
 ## Assignment Title
 Implementation of Selection Sort Algorithm
